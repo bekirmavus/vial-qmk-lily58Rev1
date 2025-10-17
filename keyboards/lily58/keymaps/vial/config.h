@@ -23,7 +23,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VIAL_KEYBOARD_UID {0x11, 0x48, 0x26, 0xA1, 0xBD, 0xA1, 0x5C, 0x50}
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
-#define VIAL_COMBO_ENTRIES 20
+#define VIAL_COMBO_ENTRIES 10
 #define NUM_ENCODERS_LEFT 1
 #define NUM_ENCODERS_RIGHT 1
 #define MAX_QUEUED_ENCODER_EVENTS 4
